@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-sorting-visualizer-app/static/css/main.c95f87ca.css",
+    "main.js": "/react-sorting-visualizer-app/static/js/main.a9dcb5b3.js",
+    "static/js/787.f5ecc189.chunk.js": "/react-sorting-visualizer-app/static/js/787.f5ecc189.chunk.js",
+    "index.html": "/react-sorting-visualizer-app/index.html",
+    "main.c95f87ca.css.map": "/react-sorting-visualizer-app/static/css/main.c95f87ca.css.map",
+    "main.a9dcb5b3.js.map": "/react-sorting-visualizer-app/static/js/main.a9dcb5b3.js.map",
+    "787.f5ecc189.chunk.js.map": "/react-sorting-visualizer-app/static/js/787.f5ecc189.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95f87ca.css",
+    "static/js/main.a9dcb5b3.js"
+  ]
+}
